@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student\\lab7.1it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C717FBAE-2379-3129-90F9-807A250BDC5D}|UnitTest7.1it\\UnitTest7.1it.vcxproj|D:\\Student\\lab7.1it\\UnitTest7.1it\\UnitTest7.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C717FBAE-2379-3129-90F9-807A250BDC5D}|UnitTest7.1it\\UnitTest7.1it.vcxproj|solutionrelative:UnitTest7.1it\\UnitTest7.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B2FFC-53A3-4C16-925C-08876DB4FD61}|lab7.1it\\lab7.1it.vcxproj|D:\\Student\\lab7.1it\\lab7.1it\\lab7.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9B2FFC-53A3-4C16-925C-08876DB4FD61}|lab7.1it\\lab7.1it.vcxproj|solutionrelative:lab7.1it\\lab7.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest7.1it.cpp",
+              "DocumentMoniker": "D:\\Student\\lab7.1it\\UnitTest7.1it\\UnitTest7.1it.cpp",
+              "RelativeDocumentMoniker": "UnitTest7.1it\\UnitTest7.1it.cpp",
+              "ToolTip": "D:\\Student\\lab7.1it\\UnitTest7.1it\\UnitTest7.1it.cpp",
+              "RelativeToolTip": "UnitTest7.1it\\UnitTest7.1it.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T20:10:55.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab7.1it.cpp",
+              "DocumentMoniker": "D:\\Student\\lab7.1it\\lab7.1it\\lab7.1it.cpp",
+              "RelativeDocumentMoniker": "lab7.1it\\lab7.1it.cpp",
+              "ToolTip": "D:\\Student\\lab7.1it\\lab7.1it\\lab7.1it.cpp",
+              "RelativeToolTip": "lab7.1it\\lab7.1it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T20:02:31.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
